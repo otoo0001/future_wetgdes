@@ -28,3 +28,7 @@ __pycache__/
 scratch/
 tmp/
 output/
+
+# Ignore SLURM logs
+scripts/slurm-*.out
+
