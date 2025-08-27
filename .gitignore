@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data and large outputs
+*.nc
+*.nc4
+*.zarr/
+*.parquet
+*.csv
+*.tif
+*.tiff
+*.png
+*.jpg
+*.gif
+*.pdf
+
+# Project-specific
+/data/
+scratch/
+tmp/
+output/
