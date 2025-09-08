@@ -54,7 +54,7 @@ export XR_ENGINE=netcdf4
 export WET_THRESHOLD=gt0          # gt0 | ge0.25 | ge0.5 | eq1
 
 # quick smoke-test (set to 0 for full runs)
-export SMALL_TEST=1
+export SMALL_TEST=0
 
 # LUH2 options
 export APPLY_AG_MASK=1
